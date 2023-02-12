@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="611px" height="509px" viewBox="0 0 611 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>blue blob@2</title>
+    <defs>
+        <filter x="-40.2%" y="-57.5%" width="180.4%" height="214.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Careers---Single-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gravity-Team---Single-Page" transform="translate(-52.000000, -924.000000)" fill="#665DCD">
+            <g id="article" transform="translate(171.000000, 896.000000)">
+                <g id="blob" transform="translate(0.000000, 152.000000)">
+                    <ellipse id="blue-blob" filter="url(#filter-1)" cx="186.5" cy="130.5" rx="186.5" ry="130.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

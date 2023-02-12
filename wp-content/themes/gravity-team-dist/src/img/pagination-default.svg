@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/arrow-in-circle/default</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#665DCD" offset="0%"></stop>
+            <stop stop-color="#5FA4E6" offset="44.7624153%"></stop>
+            <stop stop-color="#D2AB67" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="8.67768595%" x2="100%" y2="91.322314%" id="linearGradient-2">
+            <stop stop-color="#665DCD" offset="0%"></stop>
+            <stop stop-color="#5FA4E6" offset="44.7624153%"></stop>
+            <stop stop-color="#D2AB67" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Blog---Single-post" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gravity-Team---Single-Blog-Post" transform="translate(-626.000000, -5269.000000)">
+            <g id="featured-posts" transform="translate(172.000000, 5160.000000)">
+                <g id="Group" transform="translate(454.500000, 109.500000)">
+                    <path d="M29,0 C12.9837423,0 0,12.9837423 0,29 C0,45.0162577 12.9837423,58 29,58 C45.0162577,58 58,45.0162577 58,29 C58,12.9837423 45.0162577,0 29,0 Z M29,1 C44.463973,1 57,13.536027 57,29 C57,44.463973 44.463973,57 29,57 C13.536027,57 1,44.463973 1,29 C1,13.536027 13.536027,1 29,1 Z" id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(29.000000, 29.000000) scale(-1, 1) translate(-29.000000, -29.000000) "></path>
+                    <g transform="translate(18.500000, 19.500000)" fill="url(#linearGradient-2)" id="icon/arrow">
+                        <g transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) ">
+                            <path d="M19.5299988,9.34880011 L11.8499642,1.29616098 C11.4918394,0.929794319 10.9106,0.887238489 10.4924701,1.25915673 C10.1193452,1.59036652 10.109966,2.2379787 10.4549723,2.59877957 L16.6201153,9.05273299 L0.96000432,9.05273299 C0.429361932,9.05273299 0,9.47645812 0,10.0001023 C0,10.5237465 0.429376332,10.9474716 0.96000432,10.9474716 L16.6201153,10.9474716 L10.4549723,17.401425 C10.1099708,17.7622401 10.1343453,18.3932307 10.4924701,18.7410526 C10.8712206,19.1074193 11.4974986,19.0759619 11.8499642,18.7040484 L19.5299988,10.6514092 C19.7549998,10.433069 19.7962512,10.2221325 19.8,10.0000928 C19.8,9.7817763 19.6649994,9.48943708 19.5299988,9.34880011 Z" id="Fill-1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
